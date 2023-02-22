@@ -9,7 +9,7 @@ public class Orange {
 		String getColor()
 		{
 		return color;
-		}
+		};;
 		public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Orange greenApple = new Orange("green");
